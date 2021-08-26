@@ -1,0 +1,6 @@
+requests
+google-cloud
+google-cloud-bigquery-datatransfer
+protobuf
+google-cloud-datastore
+google-cloud-firestore
